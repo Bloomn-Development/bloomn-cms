@@ -14,10 +14,11 @@ function Profile() {
   if (!data) return <div>loading...</div>
   return <div>hello {data.name}!</div>
 }
+```
 
 - [ ] Examples in `Dynamic routes`, link in the links section
 
-```
+
 ### Links
 
 [SWR](https://swr.vercel.app/) \
