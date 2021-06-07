@@ -20,7 +20,7 @@ function Profile() {
 ```
 ### Links
 
-[SWR](https://swr.vercel.app/)
-[Data Fetching](https://nextjs.org/docs/basic-features/data-fetching)
-[Static File Serving](https://nextjs.org/docs/basic-features/static-file-serving)
+[SWR](https://swr.vercel.app/) \
+[Data Fetching](https://nextjs.org/docs/basic-features/data-fetching) \
+[Static File Serving](https://nextjs.org/docs/basic-features/static-file-serving) \
 [Dynamic routes](https://nextjs.org/learn/basics/dynamic-routes/dynamic-routes-details)
